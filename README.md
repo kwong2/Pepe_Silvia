@@ -11,6 +11,10 @@ on one of my favorite TV shows, It's Always Sunny in Philadelphia.
 The object of the game is to find the answers as to why Pepe Silvia doesn't exist even though you keep recieving letters 
 addressed to him. 
 
+### Other Features
+
+The game includes cool graphics and multiple loops so you can enjoy a seamless experience playing it.
+
 ### Installation
 
 No installation required. Just download the **pepe_silvia.rb** file.
