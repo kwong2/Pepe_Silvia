@@ -152,7 +152,7 @@ sleep(5)
 #linux
 # fork { exec 'google-chrome', '-q', 'https://www.youtube.com/watch?v=_nTpsv9PNqo' }
 ### opens browser on macs
-fork { exec 'open http://www.youtube.com'}
+fork { exec 'open https://www.youtube.com/watch?v=_nTpsv9PNqo'}
 
 sleep (2)
 puts" 
